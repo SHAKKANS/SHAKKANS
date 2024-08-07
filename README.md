@@ -2,7 +2,7 @@
 
 👋 I am an enthusiastic Software Quality Professional with a zest for delivering quality products, using rigorous quality assurance processes and leveraging technology and tools.👋
 
-      💡 When it comes to testing a piece of software, I am a curious person and go out of the box thinking to find the nonconformance in the system and report
+      💡 When it comes to testing a piece of software, I am curious and go out of the box thinking to find the nonconformance in the system and report
          it before the customer catches it.
       🌱 I’m currently developing end-to-end automation scripts for online shopping using Selenium, Java and TestNG.
       👯 I always look to collaborate with the team and think of ways how testing be made more efficient with the help of integration of technology, tools and processes.
