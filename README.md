@@ -13,7 +13,8 @@
       📫 Reach me at shakkila.blr@gmail.com, for any QA process-related queries / My Linkedin: https://www.linkedin.com/in/shakkila-ansari-50160920/
      ⚡ Fun fact: In my free time, I love travelling, cooking and watching movies.
 
-![PeachAndGIF](https://github.com/user-attachments/assets/b24e9812-d467-4f7b-a1c2-2a16696cd46c)
+![GitbashGitGudGIF](https://github.com/user-attachments/assets/d503b1fc-e32c-4a52-a466-abe990d38deb)
+
 
 
 
