@@ -11,7 +11,7 @@
       🤔 Some of the areas where I might need help are the DevOps Integration Pipeline, and Application network infrastructure.
       💬 Ask me about how to implement a Quality Assurance Process, Test Management, Defect Management, Agile Scrum Framework and Project Management tools such as Jira,I am 
           happy to help. 
-      📫 Reach me at shakkila.blr@gmail.com, for any project or QA process-related queries / Linkedin: https://www.linkedin.com/in/shakkila-ansari-50160920/
+      📫 Reach me at shakkila.blr@gmail.com, for any QA process-related queries / My Linkedin: https://www.linkedin.com/in/shakkila-ansari-50160920/
      ⚡ Fun fact: In my free time, I love travelling, cooking and watching movies.
 
 ![PeachAndGIF](https://github.com/user-attachments/assets/b24e9812-d467-4f7b-a1c2-2a16696cd46c)
