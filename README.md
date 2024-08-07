@@ -14,8 +14,9 @@
       📫 Reach me at shakkila.blr@gmail.com, for any project or QA process-related queries / Linkedin: https://www.linkedin.com/in/shakkila-ansari-50160920/
      ⚡ Fun fact: In my free time, I love travelling, cooking and watching movies.
 
-    
-  ![DonaldDuckThatsMeGIF](https://github.com/user-attachments/assets/9416d0e2-ec5d-46ec-9ee9-417ba87502fd)
+    ![GithubGitlabGIF](https://github.com/user-attachments/assets/d55299f0-7d4a-406f-8007-6409be07e527)
+
+  
 
 
 
