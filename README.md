@@ -1,6 +1,6 @@
  Hi there 👋
 
-👋 I am an enthusiastic Software Quality Professional with a zest for delivering quality products, using rigorous quality assurance processes and leveraging technology and tools.👋
+👋 I am an enthusiastic Software Quality Professional with a zest for delivering quality products, by using rigorous quality assurance processes and leveraging technology and tools.👋
 
       💡 When it comes to testing a piece of software, I am curious and go out of the box thinking to find the nonconformance in the system and report
          it before the customer catches it.
@@ -14,7 +14,8 @@
       📫 Reach me at shakkila.blr@gmail.com, for any project or QA process-related queries / Linkedin: https://www.linkedin.com/in/shakkila-ansari-50160920/
      ⚡ Fun fact: In my free time, I love travelling, cooking and watching movies.
 
-![GithubCatGIF](https://github.com/user-attachments/assets/8e13be16-b653-40e8-8101-fb9922d96f38)
+![PeachAndGIF](https://github.com/user-attachments/assets/b24e9812-d467-4f7b-a1c2-2a16696cd46c)
+
 
 
 
