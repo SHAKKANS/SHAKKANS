@@ -12,8 +12,10 @@
 - 💬 Ask me about how to implement a Quality Assurance Process, Test Management, Defect Management , Agile Scrum Framework and Project Management tools such as Jira,I am 
       happy to help. 
 - - 📫 Reach me at shakkila.blr@gmail.com, for any project or QA process related queries / linkedIn : https://www.linkedin.com/in/shakkila-ansari-50160920/
-  - ⚡ Fun fact: In my free time, I love travelling ,cooking and watching movies.
-- ![DonaldDuckThatsMeGIF](https://github.com/user-attachments/assets/9416d0e2-ec5d-46ec-9ee9-417ba87502fd)
+- - ⚡ Fun fact: In my free time, I love travelling ,cooking and watching movies.
+
+    
+  ![DonaldDuckThatsMeGIF](https://github.com/user-attachments/assets/9416d0e2-ec5d-46ec-9ee9-417ba87502fd)
 
 
 -->
